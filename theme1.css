@@ -1,0 +1,35 @@
+<!--STYLING/CSS-->
+h1{
+    text-align: center;
+}
+#left {
+    top: 500px;
+    padding: 40px;
+    width: 180px;
+    font-family: monospace;
+}
+#posts {
+    position: absolute;
+    width: 500px;
+    height: auto;
+    padding: 10px;
+    left: 300px;
+    top: 200px;
+}    
+
+#navbar {
+    width: 50px;
+    text-align: left;
+    color: {colour:nav text};
+}
+ul{
+    list-style-type: none;
+    top: 500px;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+ol{
+    list-style-type: none;
+}
